@@ -3,6 +3,8 @@
 这里是 Tom 的 YouTube 视频拍摄和内容创作的脚本库。
 
 ▶️ **YouTube 频道**: [@tomdya](https://www.youtube.com/@tomdya)
+🎵 **TikTok**: [@tomdya](https://www.tiktok.com/@tomdya)
+📸 **Instagram**: [@tomd.ya](https://www.instagram.com/tomd.ya)
 
 ## 频道定位
 本频道主要聚焦于：

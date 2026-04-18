@@ -1,0 +1,14 @@
+# 忽略所有媒体素材文件夹
+footage/
+music/
+covers/
+export/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.arw
+*.dng
