@@ -5,3 +5,17 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Multimedia files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.mov
+*.mkv
+*.avi
