@@ -55,7 +55,7 @@ Evaluate the project on each dimension using a **1-10 scale**. Provide a brief j
 | 3 | **观众留存设计 (Retention Design)** | Hook effectiveness (first 30s), mid-video retention anchors, "5-minute death zone" mitigation, audience interaction prompts |
 | 4 | **SEO 与分发 (SEO & Distribution)** | Title strategy, keyword density, multilingual SEO, description optimization, hashtag strategy, end screen/card planning |
 | 5 | **短视频矩阵 (Short-form Matrix)** | Content type diversity, platform-specific adaptation, release timeline, viral potential, controversial/opinion-type content |
-| 6 | **音乐与声音设计 (Audio Design)** | BGM-emotion alignment, SFX design, transition sounds, signature sounds, Suno prompt quality, BPM specifications |
+| 6 | **音乐与声音设计 (Audio Design)** | BGM-emotion alignment using YouTube Audio Library genre/mood taxonomy (see below), SFX design, transition sounds, signature sounds, Suno prompt quality, BPM specifications |
 | 7 | **商业可行性 (Monetization)** | Sponsor integration naturalness, ad placement timing, monetization diversity, brand safety |
 | 8 | **后勤与可执行性 (Logistics)** | Planning completeness, risk management, contingency plans, budget realism, gear readiness |
 
@@ -176,6 +176,49 @@ Generate the review as a markdown file saved to `review/professional_review.md` 
 5. **Bilingual awareness** — This channel targets both Chinese and English-speaking audiences. Review SEO and titles for both markets.
 6. **Gear-aware** — Reference the production stack (DJI Pocket 3, Insta360 Ace Pro 2, DJI Mavic 4 Pro, Leica M11-P, Kawasaki W175) when suggesting shots or visual improvements.
 7. **Cross-platform thinking** — Always consider both long-form (YouTube) and short-form (TikTok/Reels) implications of any suggestion.
+
+## YouTube Audio Library: Standard Genre & Mood Reference
+
+When reviewing or generating music design, always use the official **YouTube Audio Library** taxonomy to classify background music. This ensures compatibility with YouTube's own library and provides clear, standardized communication with editors and collaborators.
+
+### 🎼 Genres（流派）
+
+| Genre (EN) | 流派（中文） |
+| :--- | :--- |
+| Alternative & Punk | 另类和朋克 |
+| Ambient | 氛围音乐 |
+| Children's | 儿童 |
+| Cinematic | 电影 |
+| Classical | 古典乐 |
+| Country & Folk | 乡村音乐和民谣 |
+| Dance & Electronic | 舞蹈和电子音乐 |
+| Hip-Hop & Rap | 嘻哈饶舌说唱 |
+| Holiday | 假日音乐 |
+| Jazz & Blues | 爵士与布鲁斯 |
+| Pop | 流行乐 |
+| R&B & Soul | R&B 和灵魂乐 |
+| Reggae | 雷鬼乐 |
+| Rock | 摇滚乐 |
+
+### 🎭 Moods（曲调）
+
+| Mood (EN) | 曲调（中文） |
+| :--- | :--- |
+| Angry | 愤怒 |
+| Bright | 欢快 |
+| Calm | 平静 |
+| Dark | 忧郁 |
+| Dramatic | 激越 |
+| Funky | 放克 |
+| Happy | 欢快 |
+| Inspirational | 励志 |
+| Romantic | 浪漫 |
+| Sad | 悲伤 |
+
+> [!TIP]
+> When evaluating `music/suno_ai_prompts.md`, check that each section explicitly maps to one of the above official genres and moods. Mismatches between the intended emotional arc and the chosen genre/mood are a common quality issue.
+
+---
 
 ## Contextual References
 

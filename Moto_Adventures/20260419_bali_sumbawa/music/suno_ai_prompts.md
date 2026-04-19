@@ -5,6 +5,7 @@
 > **Suno AI 提示技巧**：
 > - 确保在 Suno 中勾选 **"Instrumental" (纯音乐)** 选项，不需要生成人声和歌词。
 > - 生成后可以挑选合适的段落进行循环或裁剪。
+> - 每段均已按 **YouTube 音频库** 官方分类标注流派（Genre）与曲调（Mood），可作为在 YouTube 音频库筛选备用版权音乐的参考。
 
 > [!IMPORTANT]
 > **备用生成策略**：Suno AI 的生成质量有随机性。每条 Prompt 建议生成 **3-5 次**，从中挑选最佳。选择标准：
@@ -18,6 +19,11 @@
 **情绪与目标**：紧迫、不安、命悬一线——配合"地狱开场"的悬念预告段落（00:00-00:15）。
 **建议 BPM**：80-95 BPM（心跳级节奏，制造本能的紧张感）
 
+| 分类 | YouTube 音频库标准 |
+| :--- | :--- |
+| 🎼 流派 (Genre) | **Cinematic（电影）** |
+| 🎭 曲调 (Mood) | **Dark（忧郁）/ Dramatic（激越）** |
+
 **Suno AI Prompt:**
 ```text
 [Instrumental]
@@ -30,6 +36,11 @@ Description: A short, tense cinematic instrumental for a cold open. Starts with 
 ## 🎸 Act 1: 启程与跨界 (Bali to Lombok)
 **情绪与目标**：充满希望，带有公路旅行的自由感，逃离都市拥堵的释放。
 **建议 BPM**：110-125 BPM（配合引擎转速的节奏，积极向前的推进感）
+
+| 分类 | YouTube 音频库标准 |
+| :--- | :--- |
+| 🎼 流派 (Genre) | **Country & Folk（乡村音乐和民谣）** / Dance & Electronic（舞蹈和电子音乐）|
+| 🎭 曲调 (Mood) | **Bright（欢快）/ Inspirational（励志）** |
 
 **Suno AI Prompt:**
 ```text
@@ -50,6 +61,11 @@ Description: A driving and hopeful instrumental track. Starts with rhythmic acou
 **建议 BPM**：从 120 BPM 逐渐减速至 80 BPM
 **时长**：10-15 秒
 
+| 分类 | YouTube 音频库标准 |
+| :--- | :--- |
+| 🎼 流派 (Genre) | **Ambient（氛围音乐）** |
+| 🎭 曲调 (Mood) | **Calm（平静）/ Dark（忧郁）** |
+
 **Suno AI Prompt:**
 ```text
 [Instrumental]
@@ -62,6 +78,11 @@ Description: A short cinematic transition piece. Starts with the tail-end energy
 ## 🏜️ Act 2: 狂野与孤寂 (Entering Sumbawa)
 **情绪与目标**：空间感，荒芜，孤寂，上帝视角下的渺小与震撼。
 **建议 BPM**：70-85 BPM（放慢，留白，给画面和旁白空间呼吸）
+
+| 分类 | YouTube 音频库标准 |
+| :--- | :--- |
+| 🎼 流派 (Genre) | **Ambient（氛围音乐）** / Country & Folk（乡村音乐和民谣）|
+| 🎭 曲调 (Mood) | **Dark（忧郁）/ Sad（悲伤）** |
 
 **Suno AI Prompt:**
 ```text
@@ -89,6 +110,11 @@ Description: A vast, slow-building atmospheric track. Features sparse and haunti
 **建议 BPM**：从 75 BPM 加速至 120 BPM
 **时长**：10-15 秒
 
+| 分类 | YouTube 音频库标准 |
+| :--- | :--- |
+| 🎼 流派 (Genre) | **Cinematic（电影）** |
+| 🎭 曲调 (Mood) | **Dramatic（激越）/ Inspirational（励志）** |
+
 **Suno AI Prompt:**
 ```text
 [Instrumental]
@@ -104,6 +130,11 @@ Description: A short, powerful transition piece that transforms from a quiet amb
 ### Suno AI Prompt (第一段：史诗高潮 - 适合航拍及海浪)
 **建议 BPM**：130-140 BPM（情绪顶到最高，与巨浪和火山的视觉力量匹配）
 
+| 分类 | YouTube 音频库标准 |
+| :--- | :--- |
+| 🎼 流派 (Genre) | **Cinematic（电影）** |
+| 🎭 曲调 (Mood) | **Dramatic（激越）/ Angry（愤怒）** |
+
 ```text
 [Instrumental]
 Style tag: Epic Orchestral, Tribal Percussion, Cinematic Tension, Dramatic, Huge Scale, Triumphant
@@ -112,6 +143,11 @@ Description: A massive, dramatic orchestral instrumental with powerful tribal pe
 
 ### Suno AI Prompt (第二段：极简沉淀 - 适合黑白人像与落日)
 **建议 BPM**：60 BPM 以下（几乎无节拍，自由节奏，让画面主导）
+
+| 分类 | YouTube 音频库标准 |
+| :--- | :--- |
+| 🎼 流派 (Genre) | **Ambient（氛围音乐）** / Classical（古典乐）|
+| 🎭 曲调 (Mood) | **Calm（平静）/ Sad（悲伤）** |
 
 ```text
 [Instrumental]
